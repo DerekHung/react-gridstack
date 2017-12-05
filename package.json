@@ -44,7 +44,6 @@
     "eslint-plugin-react": "^5.0.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "gulp": "^3.9.1",
-    "jquery-ui": "^1.12.1",
     "gulp-babel": "^6.1.2",
     "gulp-rimraf": "^0.2.0",
     "style-loader": "^0.13.1",
@@ -54,6 +53,7 @@
   "dependencies": {
     "gridstack": "^0.2.5",
     "jquery": "^2.2.1",
+    "jquery-ui": "^1.12.1",
     "lodash": "^4.11.1"
   }
 }
