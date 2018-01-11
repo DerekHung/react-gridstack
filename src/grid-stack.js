@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 import $ from 'jquery'
-import 'gridstack/dist/gridstack.js'
+import 'gridstack/dist/gridstack.all.js'
 import 'gridstack/dist/gridstack.css'
 import differenceWith from 'lodash/differenceWith'
 import map from 'lodash/map'
